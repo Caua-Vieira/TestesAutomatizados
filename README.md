@@ -14,7 +14,7 @@ O projeto foi desenvolvido na linguagem Java utilizando o JDK na versão 20, al�
 E-mail: cauasilva8@gmail.com
 
 ## Colaboradores
-Daniel Domingos Akira de Sa Pimentel Ohata
+Professor Daniel Domingos Akira de Sa Pimentel Ohata e
 Centro universitário Facens
 
 
